@@ -1,4 +1,4 @@
-package com.sistema.entrega.controller;
+package com.sistema.entrega.api.controller;
 
 import java.util.List;
 

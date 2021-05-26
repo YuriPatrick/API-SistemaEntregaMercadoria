@@ -1,4 +1,4 @@
-package com.sistema.entrega.exceptionhandler;
+package com.sistema.entrega.api.exceptionhandler;
 
 import java.time.LocalDateTime;
 import java.util.List;
